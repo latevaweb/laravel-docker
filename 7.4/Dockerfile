@@ -49,7 +49,6 @@ RUN docker-php-ext-install \
     exif \
     gd \
     iconv \
-    intl \
     mbstring \
     pdo \
     pdo_mysql \
